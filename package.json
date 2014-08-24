@@ -1,0 +1,24 @@
+{
+  "name": "game-hangman",
+  "version": "0.0.0",
+  "main": "lib/game-hangman.js",
+  "description": "generic hangman game, renders in the terminal. ",
+  "homepage": "https://github.com/stanzheng/game-hangman",
+  "bugs": "https://github.com/stanzheng/game-hangman/issues",
+  "author": {
+    "name": "Stanley Zheng",
+    "email": "szhen002@gmail.com",
+    "url": "stanzheng.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanzheng/game-hangman"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "chai": "^1.9.1",
+    "gulp": "^3.8.7",
+    "gulp-mocha": "^1.0.0"
+  }
+}
